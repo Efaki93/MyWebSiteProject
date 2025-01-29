@@ -1,3 +1,3 @@
 # MyWebSiteProject
-My WebSite Project Vegan Point
-[Visit VeganPoint Website](http://veganpoint.ct.ws/)
+My WebSite Project:
+[Visit Vegan Point Website](http://veganpoint.ct.ws/)
